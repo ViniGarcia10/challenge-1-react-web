@@ -1,6 +1,6 @@
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import { Home } from "../pages/Home";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Cart } from "../pages/Cart";
+import { Home } from "../pages/Home";
 import { Success } from "../pages/Success";
 import { AppRoutes } from "./routes";
 
